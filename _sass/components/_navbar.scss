@@ -1,0 +1,16 @@
+.navbar {
+    background-color: $primary-color;
+    color: white;
+    padding: 1rem;
+  
+    ul {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-around;
+    }
+  
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }

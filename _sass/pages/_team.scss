@@ -1,0 +1,14 @@
+.team {
+    padding: 2rem;
+    
+    .team-members {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  
+    .team-member {
+      margin: 1rem;
+      text-align: center;
+    }
+  }

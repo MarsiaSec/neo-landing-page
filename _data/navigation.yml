@@ -1,8 +1,8 @@
 - name: Home
   link: /
 
+- name: What is Neo?
+  link: /neo.html
+
 - name: Team
   link: /team.html
-
-- name: About
-  link: /about.html
